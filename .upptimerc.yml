@@ -11,6 +11,7 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /al-upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  theme: dark
 
 assignees: # Users to assign downtime issues (optional)
   - berniezajac
